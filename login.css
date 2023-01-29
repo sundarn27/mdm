@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: rgba(62, 195, 239, 0.689);
+    background: cover;
+    background-position: center;
+}
+.login{
+    position: relative;
+    top: 10px;
+}
+input{
+    position: relative;
+    display: block;
+    top: 50px;
+    left: 835px;
+    height: 35px;
+    width: 300px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    outline: none;
+    margin-left: 10px;
+    padding-left: 15px;
+    background: white;
+}
+.btn{
+    position: relative;
+    width: 100px;
+    left: 940px;
+    top: 75px;
+    padding-left: 35px;
+    background-color: rgba(72, 245, 109, 0.82);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.logo {
+    position: relative;
+    width: 300px;
+    top: 50px;
+    left: 350px;
+}
+.front{
+    position: relative;
+    width: 500px;
+    top: 100px;
+    left: 150px;
+}
